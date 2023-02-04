@@ -1,0 +1,26 @@
+
+
+body{
+    background-image: url("../Background/Background.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+
+.rule{
+    background-color: #ff7885;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+}
+
+ol  {
+    text-align: left;
+}
+
+.titre{
+    text-align: left;
+    margin-left: 23px;
+}
